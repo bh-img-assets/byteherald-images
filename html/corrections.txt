@@ -1,0 +1,10 @@
+<p>This log records corrections to published ByteHerald articles. Each entry states the article, what changed, and when it changed. Minor spelling and formatting fixes may be made without an entry. Material corrections are always logged here.</p>
+<h2>How to report an error</h2>
+<p>If you find an error in a ByteHerald article, tell us through the Contact page with the article, the statement in dispute, and a reliable source that supports the concern. We check every report against the cited source, correct the article visibly where it is wrong, and add an entry below. Our verification process is described on our <a href="https://www.byteherald.com/p/methodology.html">Methodology</a> page.</p>
+<h2>Entries</h2>
+<p>This page was created on October 28, 2026, to hold corrections going forward. Earlier fixes made before publication, during editing and inspection, are not listed here, because this log covers corrections to articles after they have been published. No post-publication corrections have been logged on this page yet. The first entry below will appear when a published article is corrected.</p>
+<table>
+<tr><th>Date corrected</th><th>Article</th><th>What changed</th></tr>
+<tr><td>None yet</td><td>None yet</td><td>None yet</td></tr>
+</table>
+<p>By ByteHerald Staff. This log is maintained as part of ByteHerald's transparency standards and is updated whenever a published article is corrected.</p>
