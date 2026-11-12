@@ -1,0 +1,71 @@
+<p>Every article published on ByteHerald, in A to Z order.</p>
+<style>
+#bh-sitemap h2{margin:1.2em 0 .3em}
+#bh-sitemap ul{margin:0 0 1em;padding-left:1.2em}
+#bh-sitemap li{margin:.15em 0}
+</style>
+<div id="bh-sitemap"><p>Loading the article list...</p></div>
+<noscript><p>Please enable JavaScript to see the full article list, or browse the homepage.</p></noscript>
+<script>
+(function () {
+  var box = document.getElementById('bh-sitemap');
+  var PER = 150;
+  var all = [];
+  function fetchPage(start) {
+    var url = 'https://www.byteherald.com/feeds/posts/default?alt=json&max-results=' + PER + '&start-index=' + start;
+    return fetch(url).then(function (r) { if (!r.ok) { throw new Error('feed ' + r.status); } return r.json(); });
+  }
+  function collect(feed) {
+    var entries = (feed && feed.feed && feed.feed.entry) || [];
+    entries.forEach(function (e) {
+      var title = (e.title && e.title.$t) || '';
+      var link = '';
+      (e.link || []).forEach(function (l) { if (l.rel === 'alternate') { link = l.href; } });
+      if (title && link) { all.push({ title: title, url: link }); }
+    });
+    return entries.length;
+  }
+  function load(start) {
+    return fetchPage(start).then(function (feed) {
+      var n = collect(feed);
+      if (n === PER) { return load(start + PER); }
+    });
+  }
+  function letterOf(title) {
+    var c = title.charAt(0).toUpperCase();
+    return (c >= 'A' && c <= 'Z') ? c : '#';
+  }
+  function render() {
+    all.sort(function (a, b) { return a.title.toLowerCase().localeCompare(b.title.toLowerCase()); });
+    box.textContent = '';
+    var count = document.createElement('p');
+    count.textContent = all.length + ' articles, A to Z. New articles appear here automatically.';
+    box.appendChild(count);
+    var current = null, list = null;
+    all.forEach(function (p) {
+      var L = letterOf(p.title);
+      if (L !== current) {
+        current = L;
+        var h = document.createElement('h2');
+        h.textContent = L;
+        box.appendChild(h);
+        list = document.createElement('ul');
+        box.appendChild(list);
+      }
+      var li = document.createElement('li');
+      var a = document.createElement('a');
+      a.href = p.url;
+      a.textContent = p.title;
+      li.appendChild(a);
+      list.appendChild(li);
+    });
+  }
+  load(1).then(render).catch(function () {
+    box.textContent = 'The article list could not be loaded. Please try the homepage: ';
+    var a = document.createElement('a');
+    a.href = 'https://www.byteherald.com/';
+    a.textContent = 'byteherald.com';
+    box.appendChild(a);
+  });
+})();
+</script>
