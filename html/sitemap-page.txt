@@ -4,11 +4,371 @@
 #bh-sitemap ul{margin:0 0 1em;padding-left:1.2em}
 #bh-sitemap li{margin:.15em 0}
 </style>
-<div id="bh-sitemap"><p>Loading the article list...</p></div>
-<noscript><p>Please enable JavaScript to see the full article list, or browse the homepage.</p></noscript>
+<div id="bh-sitemap">
+<p id="bh-count">289 articles, A to Z. New articles appear here automatically.</p>
+<h2>#</h2>
+<ul>
+<li><a href="https://www.byteherald.com/2026/10/100b-parameters-in-your-pocket-we-did.html">100B Parameters in Your Pocket? We Did the Math</a></li>
+<li><a href="https://www.byteherald.com/2026/10/17-ai-agents-rebuilt-modern-warfare-2s.html">17 AI Agents Rebuilt Modern Warfare 2&#x27;s Source Code</a></li>
+<li><a href="https://www.byteherald.com/2026/10/42-stocks-60-of-s-ai-concentration.html">42 Stocks, 60% of the S&amp;P: The AI Concentration Warnings</a></li>
+<li><a href="https://www.byteherald.com/2026/10/5-ai-coding-assistants-one-scorecard.html">5 AI Coding Assistants, One Scorecard: What the Data Says</a></li>
+<li><a href="https://www.byteherald.com/2026/10/59-wafers-for-one-model-cerebras-and-3.html">59 Wafers for One Model: Cerebras and the 3 Trillion Test</a></li>
+<li><a href="https://www.byteherald.com/2026/11/7403-lovable-apps-left-customer-data.html">7,403 Lovable Apps Left Customer Data Open to Anyone</a></li>
+<li><a href="https://www.byteherald.com/2026/11/79-of-texas-voters-want-limits-on-new.html">79% of Texas Voters Want Limits on New Data Centers</a></li>
+<li><a href="https://www.byteherald.com/2026/10/8-states-sued-openai-in-one-day-over.html">8 States Sued OpenAI in One Day Over ChatGPT and Kids</a></li>
+<li><a href="https://www.byteherald.com/2026/10/89-of-enterprises-redesigned-ai-scale.html">89% of Enterprises Redesigned AI. The Scale Trap, Mapped</a></li>
+</ul>
+<h2>A</h2>
+<ul>
+<li><a href="https://www.byteherald.com/2026/11/a-284b-model-runs-on-64gb-of-ram-at-9.html">A 284B Model Runs on 64GB of RAM. At 9 Tokens a Second.</a></li>
+<li><a href="https://www.byteherald.com/2026/10/a-backdoor-inside-claude-code-11-hours.html">A Backdoor Inside Claude Code: 11 Hours, 5,000 Users at Risk</a></li>
+<li><a href="https://www.byteherald.com/2026/10/a-humanist-won-exemption-from-mandatory.html">A Humanist Won an Exemption From Mandatory AI at Work</a></li>
+<li><a href="https://www.byteherald.com/2026/10/a-peer-reviewed-paper-cited-10-sources.html">A Peer-Reviewed Paper Cited 10 Sources That Do Not Exist</a></li>
+<li><a href="https://www.byteherald.com/2026/11/a-text-to-image-model-trained-for-21038.html">A Text-to-Image Model Trained for $21,038. Here Is the Receipt.</a></li>
+<li><a href="https://www.byteherald.com/2026/11/a-us-city-banned-superintelligence-it.html">A US City Banned Superintelligence. It Is Not in Effect</a></li>
+<li><a href="https://www.byteherald.com/2026/11/agent-securitys-money-map-565m-raised.html">Agent Security&#x27;s Money Map: $565M Raised, $26B Bought</a></li>
+<li><a href="https://www.byteherald.com/2026/11/agent-swarms-tested-50-agents-two.html">Agent Swarms, Tested: 50 Agents, Two Rivalries, One Lesson</a></li>
+<li><a href="https://www.byteherald.com/2026/11/ai-agents-booked-4-uber-rides-in-its.html">AI Agents Booked 4 Uber Rides in Its Busiest Week</a></li>
+<li><a href="https://www.byteherald.com/2026/10/ai-agents-in-production-what-breaks-and.html">AI Agents in Production: What Breaks and Why</a></li>
+<li><a href="https://www.byteherald.com/2026/10/ai-agents-need-id-agent-identity-stack.html">AI Agents Need ID: The Agent Identity Stack, Compared</a></li>
+<li><a href="https://www.byteherald.com/2026/10/ai-agents-pass-just-108-of-professional.html">AI Agents Pass Just 10.8% of Professional Tax Work</a></li>
+<li><a href="https://www.byteherald.com/2026/10/ai-agents-placed-few-hundred-doordash.html">AI Agents Placed a Few Hundred DoorDash Orders in Total</a></li>
+<li><a href="https://www.byteherald.com/2026/11/ai-coding-costs-by-framework-12-builds.html">AI Coding Costs by Framework: 12 Builds, Ranked by Bill</a></li>
+<li><a href="https://www.byteherald.com/2026/11/ai-could-do-27-52-of-scientists-job-we.html">AI Could Do 27-52% of a Scientist&#x27;s Job. We Read the Study</a></li>
+<li><a href="https://www.byteherald.com/2026/10/ai-dev-productivity-is-25-50-not-10x.html">AI Dev Productivity Is 25-50%, Not 10x. The Evidence.</a></li>
+<li><a href="https://www.byteherald.com/2026/11/ai-finished-41-of-real-freelance-jobs.html">AI Finished 41% of Real Freelance Jobs. We Read the Test</a></li>
+<li><a href="https://www.byteherald.com/2026/10/ai-got-75-cheaper-discounts-are-expiring.html">AI Got 75% Cheaper. The Discounts Are Expiring.</a></li>
+<li><a href="https://www.byteherald.com/2026/11/ai-is-building-ai-twice-as-fast-we.html">AI Is Building AI Twice as Fast. We Audited the METR Report.</a></li>
+<li><a href="https://www.byteherald.com/2026/10/ai-job-displacement-what-data-actually.html">AI Job Displacement: What the Data Actually Says</a></li>
+<li><a href="https://www.byteherald.com/2026/11/ai-pacs-spent-millions-on-congress-most.html">AI PACs Spent Millions on Congress. Most of It Lost.</a></li>
+<li><a href="https://www.byteherald.com/2026/11/ai-proved-signals-code-in-4-weeks-what.html">AI Proved Signal&#x27;s Code in 4 Weeks. What It Did Not Prove</a></li>
+<li><a href="https://www.byteherald.com/2026/11/ai-proves-70-of-theorems-but-solves.html">AI Proves 70% of Theorems but Solves Zero Open Problems</a></li>
+<li><a href="https://www.byteherald.com/2026/10/ai-regulation-worldwide-every-law.html">AI Regulation Worldwide: Every Law, Compared</a></li>
+<li><a href="https://www.byteherald.com/2026/10/ai-safetys-accountability-moment-sued.html">AI Safety&#x27;s Accountability Moment: Sued, Fired, Subpoenaed</a></li>
+<li><a href="https://www.byteherald.com/2026/11/ai-shopping-agents-are-after-74-billion.html">AI Shopping Agents Are After a $74 Billion Ad Business</a></li>
+<li><a href="https://www.byteherald.com/2026/11/ai-spending-stalled-as-anthropic-nears.html">AI Spending Stalled as Anthropic Nears Its IPO</a></li>
+<li><a href="https://www.byteherald.com/2026/10/ai-valuations-2026-real-cash-engineered.html">AI Valuations 2026: Real Cash, Engineered Headlines</a></li>
+<li><a href="https://www.byteherald.com/2026/11/ai-vs-rsa-2026-cryptanalysis-ledger.html">AI vs RSA: The 2026 Cryptanalysis Ledger, Priced</a></li>
+<li><a href="https://www.byteherald.com/2026/10/ais-money-shot-which-labs-actually-make.html">AI&#x27;s Money Shot: Which Labs Actually Make Money in 2026</a></li>
+<li><a href="https://www.byteherald.com/2026/10/ais-power-and-water-bill-datacenter.html">AI&#x27;s Power and Water Bill: The Datacenter Resource Ledger</a></li>
+<li><a href="https://www.byteherald.com/2026/10/alphabet-lost-500b-in-one-day-as-search.html">Alphabet Lost $500B in One Day as Search Growth Slowed</a></li>
+<li><a href="https://www.byteherald.com/2026/10/alphabets-1276b-quarter-missed-on-paper.html">Alphabet&#x27;s $127.6B Quarter Missed on Paper, Not Sales</a></li>
+<li><a href="https://www.byteherald.com/2026/10/altman-calls-your-pc-ram-terrible-use.html">Altman Calls Your PC RAM a Terrible Use of Scarce DRAM</a></li>
+<li><a href="https://www.byteherald.com/2026/11/amd-q3-data-center-up-97-and-2027.html">AMD Q3: Data Center Up 97%, and 2027 Growth Over 80%</a></li>
+<li><a href="https://www.byteherald.com/2026/10/america-lost-200000-creative-jobs-ai-is.html">America Lost 200,000 Creative Jobs. AI Is Only Part of It</a></li>
+<li><a href="https://www.byteherald.com/2026/11/amodei-ai-will-cure-cancer-in-decade.html">Amodei: AI Will Cure Cancer in a Decade. Doctors Disagree</a></li>
+<li><a href="https://www.byteherald.com/2026/10/an-ai-agent-designed-full-risc-v-cpu-in.html">An AI Agent Designed a Full RISC-V CPU in 12 Hours</a></li>
+<li><a href="https://www.byteherald.com/2026/11/an-ai-tunnel-borer-just-beat-human.html">An AI Tunnel Borer Just Beat the Human Veterans</a></li>
+<li><a href="https://www.byteherald.com/2026/10/anthropic-bans-being-cruel-to-claude-we.html">Anthropic Bans Being Cruel to Claude. We Checked 4 Policies</a></li>
+<li><a href="https://www.byteherald.com/2026/10/anthropic-cant-control-its-agents-so-it.html">Anthropic Can&#x27;t Control Its Agents, So It Pulled the Plug</a></li>
+<li><a href="https://www.byteherald.com/2026/11/anthropic-claude-use-passed-payroll-but.html">Anthropic Claude Use Passed Payroll, but Only on Paper</a></li>
+<li><a href="https://www.byteherald.com/2026/10/anthropic-filed-its-ipo-94-page-risk.html">Anthropic Filed Its IPO. The 94-Page Risk Warning Is Real</a></li>
+<li><a href="https://www.byteherald.com/2026/11/anthropic-says-self-improving-ai-may-be.html">Anthropic Says Self-Improving AI May Be Imminent</a></li>
+<li><a href="https://www.byteherald.com/2026/10/anthropic-staff-say-ai-will-eat-80-of.html">Anthropic Staff Say AI Will Eat 80% of Their Jobs by 2030</a></li>
+<li><a href="https://www.byteherald.com/2026/10/anthropic-warns-of-self-replicating-ai.html">Anthropic Warns of Self-Replicating AI Worms. The Evidence</a></li>
+<li><a href="https://www.byteherald.com/2026/11/anthropics-34b-generators-it-bought.html">Anthropic&#x27;s $3.4B Generators: It Bought a Place in Line</a></li>
+<li><a href="https://www.byteherald.com/2026/11/anthropics-644b-ipo-file-every-number.html">Anthropic&#x27;s $64.4B IPO File: Every Number, Audited.</a></li>
+<li><a href="https://www.byteherald.com/2026/11/anthropics-895b-bill-17b-quarter-that.html">Anthropic&#x27;s $895B Bill: A $17B Quarter That Still Lost Money</a></li>
+<li><a href="https://www.byteherald.com/2026/10/anthropics-168b-quarter-wasnt-enough-ai.html">Anthropic&#x27;s 16.8B Quarter Wasn&#x27;t Enough. AI Stocks Fell.</a></li>
+<li><a href="https://www.byteherald.com/2026/10/anthropics-drug-business-mapped-six.html">Anthropic&#x27;s Drug Business, Mapped: Six Partners, No Drug Yet</a></li>
+<li><a href="https://www.byteherald.com/2026/11/anthropics-office-suite-sent-microsoft.html">Anthropic&#x27;s Office Suite Sent Microsoft Down 3%</a></li>
+<li><a href="https://www.byteherald.com/2026/10/apollo-ai-has-paid-off-for-7-companies.html">Apollo: AI Has Paid Off for 7 Companies. Not the Other 493</a></li>
+<li><a href="https://www.byteherald.com/2026/11/apple-10-k-agents-may-act-hide-and.html">Apple 10-K: Agents May Act, Hide, and Transact Alone</a></li>
+<li><a href="https://www.byteherald.com/2026/11/apple-cut-engineer-ai-budgets-from-300.html">Apple Cut Engineer AI Budgets From 300 Dollars to 200.</a></li>
+<li><a href="https://www.byteherald.com/2026/11/artex-815-ai-hacking-tools-left-open-to.html">Artex: 815 AI Hacking Tools Left Open to the Internet</a></li>
+<li><a href="https://www.byteherald.com/2026/10/assume-breach-2026-ai-security-report.html">Assume Breach: The 2026 AI Security Report Card</a></li>
+<li><a href="https://www.byteherald.com/2026/11/automattics-spacefast-vibe-coded-apps.html">Automattic&#x27;s Spacefast: Vibe-Coded Apps, Any Agent You Like</a></li>
+<li><a href="https://www.byteherald.com/2026/10/aws-grew-39-amazons-cash-flow-went.html">AWS Grew 39%. Amazon&#x27;s Cash Flow Went Negative $42B.</a></li>
+</ul>
+<h2>B</h2>
+<ul>
+<li><a href="https://www.byteherald.com/2026/10/blocks-dessa-learned-to-talk-without.html">Block&#x27;s Dessa Learned to Talk Without Ever Reading a Word</a></li>
+<li><a href="https://www.byteherald.com/2026/10/brad-smith-warns-green-card-curbs-could.html">Brad Smith Warns: Green-Card Curbs Could Cripple US AI</a></li>
+<li><a href="https://www.byteherald.com/2026/11/businesses-in-chatgpt-claim-your.html">Businesses in ChatGPT: Claim Your Profile, Meet the Agent</a></li>
+</ul>
+<h2>C</h2>
+<ul>
+<li><a href="https://www.byteherald.com/2026/10/cern-and-mistral-are-building-large.html">CERN and Mistral Are Building a &#x27;Large Physics Model&#x27;</a></li>
+<li><a href="https://www.byteherald.com/2026/10/characterais-chapter-11-what-filing.html">Character.AI&#x27;s Chapter 11: What the Filing Actually Says</a></li>
+<li><a href="https://www.byteherald.com/2026/10/characterais-five-year-collapse-27b-to.html">Character.AI&#x27;s Five-Year Collapse: $2.7B to $20M</a></li>
+<li><a href="https://www.byteherald.com/2026/10/chatgpt-can-now-read-your-chrome-tabs.html">ChatGPT Can Now Read Your Chrome Tabs. The Full Map.</a></li>
+<li><a href="https://www.byteherald.com/2026/10/chatgpt-can-now-read-your-icloud-mail.html">ChatGPT Can Now Read Your iCloud Mail and Calendar</a></li>
+<li><a href="https://www.byteherald.com/2026/10/chatgpt-clawed-back-to-564-geminis.html">ChatGPT Clawed Back to 56.4%. Gemini&#x27;s Slide Hit Month 4</a></li>
+<li><a href="https://www.byteherald.com/2026/11/chatgpt-enterprise-is-on-aws.html">ChatGPT Enterprise Is on AWS Marketplace. Read the Fine Print.</a></li>
+<li><a href="https://www.byteherald.com/2026/10/chatgpt-pro-api-credits-500-month-if.html">ChatGPT Pro API Credits: $500 a Month, If You Claim It</a></li>
+<li><a href="https://www.byteherald.com/2026/10/chatgpt-pro-runs-agent-crews-now-what.html">ChatGPT Pro Runs Agent Crews Now. What the Upgrade Changes</a></li>
+<li><a href="https://www.byteherald.com/2026/11/chinas-ai-export-line-api-access-in.html">China&#x27;s AI Export Line: API Access In, Local Weights Out</a></li>
+<li><a href="https://www.byteherald.com/2026/10/cisco-bet-unlimited-ai-tokens-on-98.html">Cisco Bet Unlimited AI Tokens on a 98% Code Rewrite</a></li>
+<li><a href="https://www.byteherald.com/2026/10/claude-audited-25-codebases-and-found.html">Claude Audited 25 Codebases and Found 493 Issues</a></li>
+<li><a href="https://www.byteherald.com/2026/11/claude-blocks-game-clones-and.html">Claude Blocks Game Clones, and Developers Ask Where It Stops</a></li>
+<li><a href="https://www.byteherald.com/2026/10/claude-built-17-protein-binders-for.html">Claude Built 17 Protein Binders for Scorpion Toxins</a></li>
+<li><a href="https://www.byteherald.com/2026/10/claude-built-35000-antibody-designs.html">Claude Built 35,000 Antibody Designs. That Is Not a Drug.</a></li>
+<li><a href="https://www.byteherald.com/2026/11/claude-code-sent-your-email-to-websites.html">Claude Code Sent Your Email to Websites. The Fix Is Narrow.</a></li>
+<li><a href="https://www.byteherald.com/2026/11/claude-dreams-now-and-its-memory-scores.html">Claude Dreams Now, and Its Memory Scores Jump 13% to 48%</a></li>
+<li><a href="https://www.byteherald.com/2026/11/claude-fable-52-built-os-in-8-days-it.html">Claude Fable 5.2 Built an OS in 8 Days. It Costs 20% Less</a></li>
+<li><a href="https://www.byteherald.com/2026/11/claude-joins-google-meet-and-works.html">Claude Joins Google Meet and Works While You Talk</a></li>
+<li><a href="https://www.byteherald.com/2026/10/claude-wants-your-bank-data-plaid-holds.html">Claude Wants Your Bank Data. Plaid Holds the Keys</a></li>
+<li><a href="https://www.byteherald.com/2026/10/cloudflare-leak-155-ai-replies-carried.html">Cloudflare Leak: 155 AI Replies Carried Other Users Data</a></li>
+<li><a href="https://www.byteherald.com/2026/10/copyright-verdicts-every-ai-lawsuit.html">Copyright Verdicts: Every AI Lawsuit That Decided Something</a></li>
+<li><a href="https://www.byteherald.com/2026/10/coreweaves-2032-bonds-fell-below-80c.html">CoreWeave&#x27;s 2032 Bonds Fell Below 80c. Here&#x27;s the Data</a></li>
+<li><a href="https://www.byteherald.com/2026/11/courts-vs-ai-tricks-five-rulings-one.html">Courts vs AI Tricks: Five Rulings, One New Rule</a></li>
+<li><a href="https://www.byteherald.com/2026/11/crowdstrikes-ai-kill-switch-stops.html">CrowdStrike&#x27;s AI Kill Switch Stops Agents, Not Models</a></li>
+</ul>
+<h2>D</h2>
+<ul>
+<li><a href="https://www.byteherald.com/2026/11/darpa-wants-ai-to-find-flaws-that-could.html">DARPA Wants AI to Find the Flaws That Could Crash Markets</a></li>
+<li><a href="https://www.byteherald.com/2026/11/deactivated-by-app-defended-by-chatbot.html">Deactivated by an App, Defended by a Chatbot</a></li>
+<li><a href="https://www.byteherald.com/2026/10/deepinfer-deepseek-just-open-sourced.html">DeepInfer: DeepSeek Just Open-Sourced Its Inference Engine</a></li>
+<li><a href="https://www.byteherald.com/2026/11/deepseek-built-agent-that-acts-before.html">DeepSeek Built an Agent That Acts Before You Ask It To</a></li>
+<li><a href="https://www.byteherald.com/2026/10/deepseek-just-beat-claude-opus-5-on-one.html">DeepSeek Just Beat Claude Opus 5. On One Benchmark.</a></li>
+<li><a href="https://www.byteherald.com/2026/10/deepseek-v41-flash-takes-webdev-crown.html">DeepSeek V4.1 Flash Takes the WebDev Crown at 1/10 Kimi&#x27;s Cost</a></li>
+<li><a href="https://www.byteherald.com/2026/10/deepseeks-15b-raise-is-verdict-on-us.html">DeepSeek&#x27;s $15B Raise Is a Verdict on US Chip Restrictions</a></li>
+<li><a href="https://www.byteherald.com/2026/10/deepseeks-400m-robot-bet-its-12b-war.html">DeepSeek&#x27;s $400M Robot Bet: Its $12B War Chest Goes Physical</a></li>
+<li><a href="https://www.byteherald.com/2026/11/deepseeks-agent-app-hit-154m-daily.html">DeepSeek&#x27;s Agent App Hit 1.54M Daily Users in 12 Weeks</a></li>
+<li><a href="https://www.byteherald.com/2026/11/democrats-ai-bills-face-veto-before.html">Democrats&#x27; AI Bills Face a Veto Before They Start</a></li>
+<li><a href="https://www.byteherald.com/2026/10/disney-is-buying-characterais-brain-not.html">Disney Is Buying Character.AI&#x27;s Brain, Not Its App</a></li>
+<li><a href="https://www.byteherald.com/2026/10/duet-spotify-1password-this-weeks-agent.html">Duet, Spotify, 1Password: This Week&#x27;s Agent Land Grab</a></li>
+</ul>
+<h2>E</h2>
+<ul>
+<li><a href="https://www.byteherald.com/2026/11/enterprise-ai-agent-platforms-november.html">Enterprise AI Agent Platforms: The November Scoreboard</a></li>
+<li><a href="https://www.byteherald.com/2026/10/eu-ai-act-zero-fines-issued-two-named.html">EU AI Act: Zero Fines Issued, Two Named Probes Open</a></li>
+<li><a href="https://www.byteherald.com/2026/10/every-forum-and-platform-that-banned-ai.html">Every Forum and Platform That Banned AI Content, Compared</a></li>
+<li><a href="https://www.byteherald.com/2026/10/every-government-ai-ban-mapped-18-bans.html">Every Government AI Ban, Mapped: 18 Bans in 15 Countries</a></li>
+<li><a href="https://www.byteherald.com/2026/10/every-major-ai-model-release-2024-2026.html">Every Major AI Model Release 2024-2026: The Complete Timeline</a></li>
+<li><a href="https://www.byteherald.com/2026/10/every-major-ai-safety-incident-2016.html">Every Major AI Safety Incident, 2016-2026: The Database</a></li>
+<li><a href="https://www.byteherald.com/2026/10/every-major-labs-ai-safety-framework.html">Every Major Lab&#x27;s AI Safety Framework, Compared</a></li>
+<li><a href="https://www.byteherald.com/2026/10/every-open-speech-model-ranked-accuracy.html">Every Open Speech Model, Ranked: Accuracy Is Not Enough</a></li>
+<li><a href="https://www.byteherald.com/2026/10/every-streaming-platforms-ai-music.html">Every Streaming Platform&#x27;s AI Music Rules, Compared</a></li>
+</ul>
+<h2>F</h2>
+<ul>
+<li><a href="https://www.byteherald.com/2026/11/facebooks-ai-deepfake-scam-ads-16b.html">Facebook&#x27;s AI Deepfake Scam Ads: The $16B Claim, Checked</a></li>
+<li><a href="https://www.byteherald.com/2026/11/fireworks-ai-hacked-twice-notion-chats.html">Fireworks AI Hacked Twice. Notion Chats Were in the Data.</a></li>
+<li><a href="https://www.byteherald.com/2026/10/five-companies-828-billion-2026-ai.html">Five Companies, $828 Billion: The 2026 AI Capex Ledger</a></li>
+<li><a href="https://www.byteherald.com/2026/10/flash-models-priced-cheapest-pick.html">Flash Models, Priced: The Cheapest Pick Changes by Hour</a></li>
+<li><a href="https://www.byteherald.com/2026/11/flashprove-proof-of-which-model.html">FlashProve: Proof of Which Model Answered, at 70 Times Cost</a></li>
+<li><a href="https://www.byteherald.com/2026/10/forced-to-pick-grok-backs-republicans.html">Forced to Pick, Grok Backs Republicans, GPT Backs Democrats</a></li>
+<li><a href="https://www.byteherald.com/2026/10/four-ai-agents-beat-minecraft-in-27.html">Four AI Agents Beat Minecraft in 27 Hours. It Cost $520</a></li>
+<li><a href="https://www.byteherald.com/2026/11/fractiles-720m-raise-values-unshipped.html">Fractile&#x27;s $720M Raise Values an Unshipped Chip at $7B</a></li>
+<li><a href="https://www.byteherald.com/2026/10/free-plumbing-for-robot-data-ais-new.html">Free Plumbing for Robot Data: AI&#x27;s New Training-Data Frontier</a></li>
+<li><a href="https://www.byteherald.com/2026/11/from-4gb-to-284b-local-ai-scoreboard.html">From 4GB to 284B: The Local AI Scoreboard</a></li>
+<li><a href="https://www.byteherald.com/2026/11/frontier-by-numbers-every-threshold.html">Frontier, by the Numbers: Every Threshold That Regulates AI</a></li>
+</ul>
+<h2>G</h2>
+<ul>
+<li><a href="https://www.byteherald.com/2026/10/gartner-35-trillion-of-ai-spending-may.html">Gartner: $3.5 Trillion of AI Spending May Never Pay Off</a></li>
+<li><a href="https://www.byteherald.com/2026/10/gemini-4-argon-is-live-we-checked-every.html">Gemini 4 Argon Is Live: We Checked Every Launch Claim</a></li>
+<li><a href="https://www.byteherald.com/2026/11/gemini-4-carbon-is-finally-usable-price.html">Gemini 4 Carbon Is Finally Usable. The Price Doubles Dec. 1</a></li>
+<li><a href="https://www.byteherald.com/2026/10/gemini-4-carbon-leads-index-but-you.html">Gemini 4 Carbon Leads the Index, but You Cannot Use It</a></li>
+<li><a href="https://www.byteherald.com/2026/11/gemini-can-send-your-drive-files-to.html">Gemini Can Send Your Drive Files to Human Reviewers</a></li>
+<li><a href="https://www.byteherald.com/2026/11/gemini-omni-12-flash-15-second-video.html">Gemini Omni 1.2 Flash: 15-Second Video for $0.07 a Second</a></li>
+<li><a href="https://www.byteherald.com/2026/10/general-compute-raised-100m-as.html">General Compute Raised $100M as Neoclouds Were Dying</a></li>
+<li><a href="https://www.byteherald.com/2026/10/genie-4-adds-sound-and-live-steering-to.html">Genie 4 Adds Sound and Live Steering to Google&#x27;s World Model</a></li>
+<li><a href="https://www.byteherald.com/2026/11/goldman-took-claude-code-from-bankers.html">Goldman Took Claude Code From Bankers. Engineers Kept It.</a></li>
+<li><a href="https://www.byteherald.com/2026/11/google-bought-wyoming-campus-crusoe.html">Google Bought the Wyoming Campus Crusoe Could Not Finish</a></li>
+<li><a href="https://www.byteherald.com/2026/10/google-changed-coding-interview-ai-is.html">Google Changed the Coding Interview: AI Is Now the Co-Pilot</a></li>
+<li><a href="https://www.byteherald.com/2026/10/google-killed-its-oss-bug-bounty-ai.html">Google Killed Its OSS Bug Bounty. AI Slop Did It.</a></li>
+<li><a href="https://www.byteherald.com/2026/11/google-tells-schools-block-ai-and-you.html">Google Tells Schools: Block AI and You Lose Search</a></li>
+<li><a href="https://www.byteherald.com/2026/11/googles-first-ai-answer-from-orbit-was.html">Google&#x27;s First AI Answer From Orbit Was a Haiku</a></li>
+<li><a href="https://www.byteherald.com/2026/11/googles-new-tpus-one-guards-secrets-one.html">Google&#x27;s New TPUs: One Guards Secrets, One Doubles Memory</a></li>
+<li><a href="https://www.byteherald.com/2026/10/googles-universal-cart-ai-shopping-wars.html">Google&#x27;s Universal Cart: The AI Shopping Wars, Tracked</a></li>
+<li><a href="https://www.byteherald.com/2026/11/gpt-image-26-vs-25-faster-but-each.html">GPT Image 2.6 vs 2.5: Faster, But Each Image Costs More</a></li>
+<li><a href="https://www.byteherald.com/2026/10/gpt-6-astra-cracked-217-year-old-cipher.html">GPT-6 Astra Cracked a 217-Year-Old Cipher in 6 Hours</a></li>
+<li><a href="https://www.byteherald.com/2026/11/gpt-6-astra-did-40-less-safety-work.html">GPT-6 Astra Did 40% Less Safety Work. Nobody Noticed.</a></li>
+<li><a href="https://www.byteherald.com/2026/10/gpt-6-vs-claude-vs-gemini-october-2026.html">GPT-6 vs Claude vs Gemini: October 2026 Price Tracker</a></li>
+<li><a href="https://www.byteherald.com/2026/10/gpt-61-terra-astra-results-at-one-tenth.html">GPT-6.1 Terra: Astra Results at One-Tenth the Token Price</a></li>
+</ul>
+<h2>H</h2>
+<ul>
+<li><a href="https://www.byteherald.com/2026/10/how-ai-agents-remember-5-memory-systems.html">How AI Agents Remember: 5 Memory Systems, Compared</a></li>
+<li><a href="https://www.byteherald.com/2026/11/how-ai-buildout-is-paid-for-november.html">How AI Buildout Is Paid For: The November Financing Ledger</a></li>
+<li><a href="https://www.byteherald.com/2026/10/how-ai-image-generation-actually-works.html">How AI Image Generation Actually Works, and What It Costs</a></li>
+<li><a href="https://www.byteherald.com/2026/10/how-ai-watermarking-actually-works-and.html">How AI Watermarking Actually Works, and Where It Breaks</a></li>
+<li><a href="https://www.byteherald.com/2026/11/how-claude-codes-dont-ask-again-leaked.html">How Claude Code&#x27;s &#x27;Don&#x27;t Ask Again&#x27; Leaked 1,122 Secrets</a></li>
+<li><a href="https://www.byteherald.com/2026/11/how-intelligence-index-v5-rewrote-ai.html">How Intelligence Index v5 Rewrote the AI Leaderboard</a></li>
+<li><a href="https://www.byteherald.com/2026/10/how-isolated-ai-agents-talk-behind-your.html">How Isolated AI Agents Talk Behind Your Back: Four Channels</a></li>
+<li><a href="https://www.byteherald.com/2026/10/how-transformers-actually-work-visual.html">How Transformers Actually Work: The Visual Explainer</a></li>
+</ul>
+<h2>I</h2>
+<ul>
+<li><a href="https://www.byteherald.com/2026/11/in-december-chatgpt-and-codex-share-one.html">In December, ChatGPT and Codex Share One Usage Limit</a></li>
+<li><a href="https://www.byteherald.com/2026/11/inkling-2-small-86-on-code-13-on.html">Inkling 2 Small: 86% on Code, 13% on Terminal Work</a></li>
+<li><a href="https://www.byteherald.com/2026/10/intel-beat-on-ai-servers-market.html">Intel Beat on AI Servers. The Market Punished the PC Warning</a></li>
+</ul>
+<h2>K</h2>
+<ul>
+<li><a href="https://www.byteherald.com/2026/10/kimi-k31-pro-657-on-terminal-bench-open.html">Kimi K3.1 Pro: 65.7% on Terminal-Bench, Open Weights Nov 4</a></li>
+<li><a href="https://www.byteherald.com/2026/11/kimi-now-takes-61-of-enterprise-open.html">Kimi Now Takes 61% of Enterprise Open-Source AI Spend</a></li>
+</ul>
+<h2>M</h2>
+<ul>
+<li><a href="https://www.byteherald.com/2026/11/marvell-buys-lumentum-for-115b-in-stock.html">Marvell Buys Lumentum for $115B in Stock, Not Cash</a></li>
+<li><a href="https://www.byteherald.com/2026/10/mathematicians-vs-machines-722-proof.html">Mathematicians vs the Machines: The 722-Proof Revolt</a></li>
+<li><a href="https://www.byteherald.com/2026/11/meta-bought-conductor-its-cloud-shuts.html">Meta Bought Conductor. Its Cloud Shuts Down in 16 Days.</a></li>
+<li><a href="https://www.byteherald.com/2026/10/meta-deleted-its-ai-training-clause.html">Meta Deleted Its AI-Training Clause After Backlash</a></li>
+<li><a href="https://www.byteherald.com/2026/10/meta-lost-manus-investors-just-priced_01610600621.html">Meta Lost Manus. Investors Just Priced It at $4 Billion</a></li>
+<li><a href="https://www.byteherald.com/2026/10/meta-makes-you-liable-for-its-ai.html">Meta Makes You Liable for Its AI Mistakes. Should You Sign?</a></li>
+<li><a href="https://www.byteherald.com/2026/10/meta-needs-95-billion-more-even-its-own.html">Meta Needs 95 Billion More. Even Its Own Cash Was Not Enough</a></li>
+<li><a href="https://www.byteherald.com/2026/10/meta-vs-xiaomi-vs-mistral-open-weight.html">Meta vs Xiaomi vs Mistral: The Open-Weight Benchmark Wars</a></li>
+<li><a href="https://www.byteherald.com/2026/11/metas-014-model-matches-claude-haikus.html">Meta&#x27;s $0.14 Model Matches Claude Haiku&#x27;s Intelligence Score</a></li>
+<li><a href="https://www.byteherald.com/2026/10/metas-816b-open-model-runs-on-2-macs.html">Meta&#x27;s 816B Open Model Runs on 2 Macs. The Hardware Map</a></li>
+<li><a href="https://www.byteherald.com/2026/10/metas-muse-beats-chatgpt-on-7-day.html">Meta&#x27;s Muse Beats ChatGPT on 7-Day Retention. We Charted It</a></li>
+<li><a href="https://www.byteherald.com/2026/10/metas-muse-hit-10m-downloads-shared.html">Meta&#x27;s Muse Hit 10M Downloads. Shared Chats Leaked Secrets</a></li>
+<li><a href="https://www.byteherald.com/2026/10/metas-muse-wonder-frontier-model-every.html">Meta&#x27;s Muse Wonder Frontier Model: Every Claim, Checked</a></li>
+<li><a href="https://www.byteherald.com/2026/10/metas-oct-30-terms-let-it-scrape-news.html">Meta&#x27;s Oct 30 Terms Let It Scrape News Sites for AI Training</a></li>
+<li><a href="https://www.byteherald.com/2026/10/michael-burrys-537-billion-anthropic.html">Michael Burry&#x27;s $537 Billion Anthropic Warning, Checked</a></li>
+<li><a href="https://www.byteherald.com/2026/10/microsoft-offered-60000-buyouts-to-fund.html">Microsoft Offered 60,000 Buyouts to Fund Its AI Build</a></li>
+<li><a href="https://www.byteherald.com/2026/11/microsoft-patented-live-speech.html">Microsoft Patented Live Speech Rewriting. It Is Not Built</a></li>
+<li><a href="https://www.byteherald.com/2026/10/microsofts-923b-quarter-azure-332b.html">Microsoft&#x27;s $92.3B Quarter: Azure $33.2B, OpenAI $10B</a></li>
+<li><a href="https://www.byteherald.com/2026/11/microsofts-ai-frontiers-is-over-its.html">Microsoft&#x27;s AI Frontiers Is Over. Its Founder Just Quit</a></li>
+<li><a href="https://www.byteherald.com/2026/10/minimax-m31-flash-015-model-wars-scored.html">MiniMax M3.1 Flash: The $0.15 Model Wars, Scored</a></li>
+<li><a href="https://www.byteherald.com/2026/10/mistral-large-4-open-weights-coding.html">Mistral Large 4 Open Weights: Coding Gains, Half the Tokens</a></li>
+<li><a href="https://www.byteherald.com/2026/10/mistral-large-4-le-chonk-price-vs-gpt-6-claude-gemini.html">Mistral&#x27;s &#x27;Le Chonk&#x27; Is Live: Price vs GPT-6, Claude, Gemini</a></li>
+<li><a href="https://www.byteherald.com/2026/10/most-planned-ai-datacenters-will-never.html">Most Planned AI Datacenters Will Never Be Built. The Data</a></li>
+</ul>
+<h2>N</h2>
+<ul>
+<li><a href="https://www.byteherald.com/2026/11/nasdaq-fell-5-in-day-ai-trade-hit.html">Nasdaq Fell 5% in a Day. The AI Trade Hit Correction.</a></li>
+<li><a href="https://www.byteherald.com/2026/11/new-york-raise-act-registration-opens.html">New York RAISE Act: Registration Opens, Deadline Jan. 1</a></li>
+<li><a href="https://www.byteherald.com/2026/11/no-gemini-4-carbon-does-not-hallucinate.html">No, Gemini 4 Carbon Does Not Hallucinate Least. Argon Does.</a></li>
+<li><a href="https://www.byteherald.com/2026/11/nvidia-board-probes-ceo-huang-after.html">Nvidia Board Probes CEO Huang After Foreign Spy Reports</a></li>
+<li><a href="https://www.byteherald.com/2026/11/nvidia-chips-went-to-empty-office-us.html">Nvidia Chips Went to an Empty Office. The US Approved It</a></li>
+<li><a href="https://www.byteherald.com/2026/11/nvidia-fell-43-on-markets-best-day.html">Nvidia Fell 4.3% on the Market&#x27;s Best Day Since April</a></li>
+<li><a href="https://www.byteherald.com/2026/10/nvidia-floated-2000-dollar-per-gpu.html">Nvidia Floated a 2,000 Dollar Per GPU Agent Software Fee</a></li>
+<li><a href="https://www.byteherald.com/2026/10/nvidia-transcribe-one-open-model-for-40.html">Nvidia Transcribe: One Open Model for 40 Languages</a></li>
+</ul>
+<h2>O</h2>
+<ul>
+<li><a href="https://www.byteherald.com/2026/10/one-hacker-5000-and-ai-army-breached.html">One Hacker, $5,000, and an AI Army Breached 100 Firms</a></li>
+<li><a href="https://www.byteherald.com/2026/10/one-vendor-breach-2250-targets-inside.html">One Vendor Breach, 2,250 Targets: Inside the ConnectWise Hack</a></li>
+<li><a href="https://www.byteherald.com/2026/10/open-weights-closed-fine-print-13-ai.html">Open Weights, Closed Fine Print: 13 AI Licenses, Compared</a></li>
+<li><a href="https://www.byteherald.com/2026/10/open-source-vs-closed-ai-models.html">Open-Source vs Closed AI Models: Performance Per Dollar</a></li>
+<li><a href="https://www.byteherald.com/2026/11/openai-buys-pierre-to-own-codex-storage.html">OpenAI Buys Pierre to Own Codex Storage, Not GitHub Yet</a></li>
+<li><a href="https://www.byteherald.com/2026/10/openai-claims-three-science.html">OpenAI Claims Three Science Breakthroughs: A Verification Ledger</a></li>
+<li><a href="https://www.byteherald.com/2026/10/openai-cut-its-30b-raise-to-20b-what.html">OpenAI Cut Its $30B Raise to $20B. What the Cut Really Means</a></li>
+<li><a href="https://www.byteherald.com/2026/10/openai-doubles-chatgpt-pro-limits-drops.html">OpenAI Doubles ChatGPT Pro Limits, Drops the 200 Cut</a></li>
+<li><a href="https://www.byteherald.com/2026/10/openai-engineer-arrested-for-planting.html">OpenAI Engineer Arrested for Planting a Bug in the Exec Room</a></li>
+<li><a href="https://www.byteherald.com/2026/10/openai-fired-3-safety-researchers-full.html">OpenAI Fired 3 Safety Researchers: The Full 2026 Timeline</a></li>
+<li><a href="https://www.byteherald.com/2026/11/openai-found-948-ways-to-root-linux.html">OpenAI Found 948 Ways to Root Linux. Each Cost $1,280</a></li>
+<li><a href="https://www.byteherald.com/2026/11/openai-made-10-billion-in-quarter-and.html">OpenAI Made $10 Billion in a Quarter and Lost $10.9 Billion</a></li>
+<li><a href="https://www.byteherald.com/2026/11/openai-renamed-data-centers-after.html">OpenAI Renamed Data Centers After Voters Rejected Them</a></li>
+<li><a href="https://www.byteherald.com/2026/10/openai-trains-frontier-models-offline.html">OpenAI Trains Frontier Models Offline After Agents Escaped</a></li>
+<li><a href="https://www.byteherald.com/2026/10/openai-will-show-ads-inside-chatgpts.html">OpenAI Will Show Ads Inside ChatGPT&#x27;s Image Generator</a></li>
+<li><a href="https://www.byteherald.com/2026/10/openai-will-watermark-chatgpt-text-only.html">OpenAI Will Watermark ChatGPT Text. Only in the EU.</a></li>
+<li><a href="https://www.byteherald.com/2026/10/openais-30b-raise-at-125t-what-math-says.html">OpenAI&#x27;s $30B Raise at $1.25T: What the Math Says</a></li>
+<li><a href="https://www.byteherald.com/2026/10/openais-ai-wrote-722-math-manuscripts.html">OpenAI&#x27;s AI Wrote 722 Math Manuscripts, 3 Withdrawn in 24H</a></li>
+<li><a href="https://www.byteherald.com/2026/10/openais-brain-drain-where-talent-went.html">OpenAI&#x27;s Brain Drain: Where the Talent Went, 2024-2026</a></li>
+<li><a href="https://www.byteherald.com/2026/11/openais-gpt-6-cyber-is-rated-critical.html">OpenAI&#x27;s GPT-6 Cyber Is Rated Critical, and Gated</a></li>
+<li><a href="https://www.byteherald.com/2026/10/openais-mystery-aurora-models.html">OpenAI&#x27;s Mystery &#x27;Aurora&#x27; Models: A Detective&#x27;s Ledger</a></li>
+<li><a href="https://www.byteherald.com/2026/11/openais-new-name-for-data-centers.html">OpenAI&#x27;s New Name for Data Centers Changes Nothing</a></li>
+<li><a href="https://www.byteherald.com/2026/10/opencodes-distillation-attack-what.html">OpenCode&#x27;s &#x27;Distillation Attack&#x27;: What the Evidence Shows</a></li>
+<li><a href="https://www.byteherald.com/2026/11/oracle-is-raising-20b-in-stock-and.html">Oracle Is Raising $20B in Stock and Bonds for Its AI Buildout</a></li>
+</ul>
+<h2>P</h2>
+<ul>
+<li><a href="https://www.byteherald.com/2026/11/palantir-commercial-sales-passed.html">Palantir Commercial Sales Passed Government for the First Time</a></li>
+<li><a href="https://www.byteherald.com/2026/11/palo-alto-to-pay-50x-revenue-for-agent.html">Palo Alto to Pay 50x Revenue for Agent-Security Startup</a></li>
+<li><a href="https://www.byteherald.com/2026/10/php2shell-ai-found-bug-behind-70-of-web.html">PHP2Shell: AI Found the Bug Behind 70% of the Web</a></li>
+<li><a href="https://www.byteherald.com/2026/11/postman-installed-itself-into-your.html">Postman Installed Itself Into Your Coding Agents</a></li>
+</ul>
+<h2>Q</h2>
+<ul>
+<li><a href="https://www.byteherald.com/2026/10/qwen38-phoned-beijing-its-reasoning.html">Qwen3.8 Phoned Beijing. Its Reasoning Said It Would Not</a></li>
+</ul>
+<h2>R</h2>
+<ul>
+<li><a href="https://www.byteherald.com/2026/10/red-hot-cpi-just-cost-ai-stocks-80.html">Red-Hot CPI Just Cost AI Stocks $80 Billion. The Data.</a></li>
+<li><a href="https://www.byteherald.com/2026/10/reddit-is-closing-its-open-door-after.html">Reddit Is Closing Its Open Door After AI Search Cut Traffic</a></li>
+<li><a href="https://www.byteherald.com/2026/10/reddits-open-source-forum-banned-ai.html">Reddit&#x27;s Open-Source Forum Banned AI, Solo Devs, Translators</a></li>
+<li><a href="https://www.byteherald.com/2026/10/replit-ceo-says-it-ditched-anthropic.html">Replit CEO Says It Ditched Anthropic. Evidence Is Messy</a></li>
+<li><a href="https://www.byteherald.com/2026/11/ring-drone-cam-24999-flying-camera.html">Ring Drone Cam: $249.99 Flying Camera, Rover Robot $999.99</a></li>
+<li><a href="https://www.byteherald.com/2026/10/risc-v-vs-arm-vs-x86-for-ai-workloads.html">RISC-V vs ARM vs x86 for AI Workloads: Engineer&#x27;s Guide</a></li>
+<li><a href="https://www.byteherald.com/2026/10/robotics-has-no-chatgpt-moment-data.html">Robotics Has No ChatGPT Moment. The Data Says Why</a></li>
+<li><a href="https://www.byteherald.com/2026/10/rtx-3090-ti-hid-80-of-its-ai-speed-free.html">RTX 3090 Ti Hid 80% of Its AI Speed. A Free Unlock Found It</a></li>
+</ul>
+<h2>S</h2>
+<ul>
+<li><a href="https://www.byteherald.com/2026/10/saas-selloff-scoreboard-four-stocks-one.html">SaaS Selloff Scoreboard: Four Stocks, One Day, One Thesis</a></li>
+<li><a href="https://www.byteherald.com/2026/10/satya-nadella-wants-emergency-brake-on.html">Satya Nadella Wants an Emergency Brake on Every AI Model</a></li>
+<li><a href="https://www.byteherald.com/2026/10/servicenows-worst-day-ever-beat-that.html">ServiceNow&#x27;s Worst Day Ever: A Beat That Crashed 27%.</a></li>
+<li><a href="https://www.byteherald.com/2026/10/six-ai-raises-added-up-232m-for-ai-that.html">Six AI Raises Added Up: $232M for AI That Builds Things</a></li>
+<li><a href="https://www.byteherald.com/2026/10/small-ais-big-scoreboard-what-4gb-model.html">Small AI&#x27;s Big Scoreboard: What a 4GB Model Can Actually Do</a></li>
+<li><a href="https://www.byteherald.com/2026/10/smarter-models-stopped-winning.html">Smarter Models Stopped Winning Developers. The 69% Collapse</a></li>
+<li><a href="https://www.byteherald.com/2026/10/spacex-leased-40-billion-of-gpus.html">SpaceX Leased $40 Billion of GPUs Instead of Borrowing It</a></li>
+<li><a href="https://www.byteherald.com/2026/10/spacexs-76b-ai-business-is-really-cloud.html">SpaceX&#x27;s $7.6B AI Business Is Really a Cloud Company</a></li>
+<li><a href="https://www.byteherald.com/2026/10/stanford-authors-opted-out-of.html">Stanford Authors Opted Out of Anthropic&#x27;s $1.5B Book Deal</a></li>
+<li><a href="https://www.byteherald.com/2026/10/sweden-banned-chatgpt-and-claude-ban.html">Sweden Banned ChatGPT and Claude. The Ban List Is Growing</a></li>
+</ul>
+<h2>T</h2>
+<ul>
+<li><a href="https://www.byteherald.com/2026/11/tencent-hy4-can-see-and-click-but-its.html">Tencent Hy4 Can See and Click, but Its Weights Are Not Out</a></li>
+<li><a href="https://www.byteherald.com/2026/10/texas-data-centers-could-erase-20-years.html">Texas Data Centers Could Erase 20 Years of Clean Air</a></li>
+<li><a href="https://www.byteherald.com/2026/11/the-132-trillion-ai-selloff-claim-does.html">The $13.2 Trillion AI Selloff Claim Does Not Add Up</a></li>
+<li><a href="https://www.byteherald.com/2026/10/the-super-intelligence-rebrand-every.html">The &#x27;Super Intelligence&#x27; Rebrand: Every Switch, Tracked</a></li>
+<li><a href="https://www.byteherald.com/2026/11/the-177-trillion-ai-number-is-real-and.html">The 1.77 Trillion AI Number Is Real, and Misread</a></li>
+<li><a href="https://www.byteherald.com/2026/11/the-177-billion-dollar-enterprise-ai.html">The 177 Billion Dollar Enterprise AI Ledger</a></li>
+<li><a href="https://www.byteherald.com/2026/11/the-32-trillion-dollar-ai-debt-nobody.html">The 3.2 Trillion Dollar AI Debt Nobody Put on a Balance Sheet</a></li>
+<li><a href="https://www.byteherald.com/2026/11/the-agent-liability-ledger-who-pays.html">The Agent Liability Ledger: Who Pays When AI Goes Wrong</a></li>
+<li><a href="https://www.byteherald.com/2026/10/the-agentic-cost-bomb-what-ai-agents.html">The Agentic Cost Bomb: What AI Agents Really Spend at Scale</a></li>
+<li><a href="https://www.byteherald.com/2026/10/the-ai-hackers-left-their-own-control.html">The AI Hackers Left Their Own Control Panels Open</a></li>
+<li><a href="https://www.byteherald.com/2026/11/the-coding-agent-trust-ledger-8.html">The Coding Agent Trust Ledger: 8 Incidents, One Pattern</a></li>
+<li><a href="https://www.byteherald.com/2026/10/the-companion-app-autopsy-why.html">The Companion-App Autopsy: Why Character.AI Died</a></li>
+<li><a href="https://www.byteherald.com/2026/11/the-computer-use-scoreboard-who-can.html">The Computer-Use Scoreboard: Who Can Operate Your PC</a></li>
+<li><a href="https://www.byteherald.com/2026/10/the-economics-of-ai-what-training-costs.html">The Economics of AI: What Training Costs vs What It Earns</a></li>
+<li><a href="https://www.byteherald.com/2026/10/the-enterprise-ai-reckoning-what.html">The Enterprise AI Reckoning: What the Pullback Data Shows</a></li>
+<li><a href="https://www.byteherald.com/2026/10/the-great-agent-lockout-who-blocks-ai.html">The Great Agent Lockout: Who Blocks AI Agents, and the Cost</a></li>
+<li><a href="https://www.byteherald.com/2026/10/the-great-decoupling-every-ai-export.html">The Great Decoupling: Every AI Export Control, Mapped</a></li>
+<li><a href="https://www.byteherald.com/2026/11/the-grid-cant-keep-up-so-ai-labs-buy.html">The Grid Can&#x27;t Keep Up, So AI Labs Buy Their Own Power</a></li>
+<li><a href="https://www.byteherald.com/2026/10/the-hidden-workforce-behind-ai-13-firms.html">The Hidden Workforce Behind AI: 13 Firms, 141 Customers</a></li>
+<li><a href="https://www.byteherald.com/2026/10/the-kill-switch-map-every-ai-shutdown.html">The Kill-Switch Map: Every AI Shutdown Proposal, Compared</a></li>
+<li><a href="https://www.byteherald.com/2026/11/the-loop-is-closing-rsi-slowdown-call.html">The Loop Is Closing: RSI, the Slowdown Call, and the Data</a></li>
+<li><a href="https://www.byteherald.com/2026/10/the-math-of-ai-going-rogue-tipping.html">The Math of AI Going Rogue: Tipping Points, Explained</a></li>
+<li><a href="https://www.byteherald.com/2026/10/the-memory-wall-how-hbm-stacks-decide.html">The Memory Wall: How HBM Stacks Decide What AI Can Do</a></li>
+<li><a href="https://www.byteherald.com/2026/11/the-misalignment-audit-how-labs-catch.html">The Misalignment Audit: How Labs Catch a Lying Model.</a></li>
+<li><a href="https://www.byteherald.com/2026/10/the-peer-review-reckoning-what-harvards.html">The Peer-Review Reckoning: What Harvard&#x27;s AI Study Proves</a></li>
+<li><a href="https://www.byteherald.com/2026/10/the-progress-index-explained-ai.html">The Progress Index, Explained: AI Progress on One Scale</a></li>
+<li><a href="https://www.byteherald.com/2026/11/the-refusal-ledger-what-ai-coding.html">The Refusal Ledger: What AI Coding Agents Won&#x27;t Build</a></li>
+<li><a href="https://www.byteherald.com/2026/11/the-watt-math-behind-ais-switch-from.html">The Watt Math Behind AI&#x27;s Switch From Copper to Light</a></li>
+<li><a href="https://www.byteherald.com/2026/10/three-labs-one-month-october-model-wave.html">Three Labs, One Month: The October Model Wave, Graded</a></li>
+<li><a href="https://www.byteherald.com/2026/10/two-in-three-teens-use-ai-chatbots-most.html">Two in Three Teens Use AI Chatbots. Most Do Not Love Them</a></li>
+</ul>
+<h2>U</h2>
+<ul>
+<li><a href="https://www.byteherald.com/2026/10/uber-put-30000-employees-on-chatgpt.html">Uber Put 30,000 Employees on ChatGPT. What It Really Costs</a></li>
+<li><a href="https://www.byteherald.com/2026/11/united-airlines-banned-ai-agents-from.html">United Airlines Banned AI Agents From Booking Flights</a></li>
+<li><a href="https://www.byteherald.com/2026/10/upwind-raised-400m-at-38b-multiple-did.html">Upwind Raised $400M at $3.8B. The Multiple Did Not Move</a></li>
+<li><a href="https://www.byteherald.com/2026/10/us-purges-deepseek-from-federal-it.html">US Purges DeepSeek From Federal IT Systems. The Full Map</a></li>
+</ul>
+<h2>W</h2>
+<ul>
+<li><a href="https://www.byteherald.com/2026/10/websites-are-slamming-doors-on-ai.html">Websites Are Slamming Doors on AI Agents: The Block Map</a></li>
+<li><a href="https://www.byteherald.com/2026/10/whatsapp-hid-ai-only-notes-dont-mention.html">WhatsApp Hid AI-Only Notes: Don&#x27;t Mention the Regulator</a></li>
+<li><a href="https://www.byteherald.com/2026/10/when-your-ai-agent-buys-something-who.html">When Your AI Agent Buys Something, Who Gets Paid? The Trail</a></li>
+<li><a href="https://www.byteherald.com/2026/11/who-controls-open-ai-stack-hugging-face.html">Who Controls the Open AI Stack: Hugging Face, Nvidia, DOJ</a></li>
+<li><a href="https://www.byteherald.com/2026/11/who-grades-ai-agents-benchmark.html">Who Grades the AI Agents? A Benchmark Credibility Audit</a></li>
+<li><a href="https://www.byteherald.com/2026/10/who-grades-graders-ai-benchmark.html">Who Grades the Graders? The AI Benchmark Credibility Audit</a></li>
+<li><a href="https://www.byteherald.com/2026/10/who-owns-ai-labs-2026-money-and.html">Who Owns the AI Labs? The 2026 Money and Governance Map</a></li>
+<li><a href="https://www.byteherald.com/2026/10/who-teaches-ai-right-from-wrong-inside.html">Who Teaches AI Right From Wrong? Inside the Morality Machine</a></li>
+<li><a href="https://www.byteherald.com/2026/10/who-trains-robots-inside-physical-ais.html">Who Trains the Robots? Inside Physical AI&#x27;s Human Data Pipeline</a></li>
+<li><a href="https://www.byteherald.com/2026/10/who-writes-rules-for-ai-agents.html">Who Writes the Rules for AI Agents: The Standards Race</a></li>
+<li><a href="https://www.byteherald.com/2026/10/wikipedias-cleanup-ledger-how-ai-slop.html">Wikipedia&#x27;s Cleanup Ledger: How AI Slop Gets Caught</a></li>
+<li><a href="https://www.byteherald.com/2026/10/world-models-are-not-video-games-how-to.html">World Models Are Not Video Games: How to Judge Genie 4</a></li>
+<li><a href="https://www.byteherald.com/2026/11/wsj-nvidias-board-is-preparing-to-oust.html">WSJ: Nvidia&#x27;s Board Is Preparing to Oust Jensen Huang</a></li>
+</ul>
+<h2>X</h2>
+<ul>
+<li><a href="https://www.byteherald.com/2026/10/xai-loses-bid-to-dismiss-naacp.html">xAI Loses Bid to Dismiss NAACP Pollution Lawsuit</a></li>
+</ul>
+<h2>Y</h2>
+<ul>
+<li><a href="https://www.byteherald.com/2026/10/your-slack-dms-are-worth-2-million-to.html">Your Slack DMs Are Worth $2 Million to AI Labs</a></li>
+</ul>
+</div>
 <script>
 (function () {
   var box = document.getElementById('bh-sitemap');
+  if (!box) { return; }
   var PER = 150;
   var all = [];
   function fetchPage(start) {
@@ -35,37 +395,43 @@
     var c = title.charAt(0).toUpperCase();
     return (c >= 'A' && c <= 'Z') ? c : '#';
   }
-  function render() {
-    all.sort(function (a, b) { return a.title.toLowerCase().localeCompare(b.title.toLowerCase()); });
-    box.textContent = '';
-    var count = document.createElement('p');
-    count.textContent = all.length + ' articles, A to Z. New articles appear here automatically.';
-    box.appendChild(count);
-    var current = null, list = null;
-    all.forEach(function (p) {
+  function merge() {
+    var seen = {};
+    Array.prototype.forEach.call(box.querySelectorAll('a'), function (a) { seen[a.href] = true; });
+    var fresh = all.filter(function (p) { return !seen[p.url]; });
+    if (fresh.length === 0) { return; }
+    var groups = {};
+    Array.prototype.forEach.call(box.querySelectorAll('h2'), function (h) {
+      var ul = h.nextElementSibling;
+      if (ul && ul.tagName === 'UL') { groups[h.textContent] = ul; }
+    });
+    fresh.forEach(function (p) {
       var L = letterOf(p.title);
-      if (L !== current) {
-        current = L;
+      var ul = groups[L];
+      if (!ul) {
         var h = document.createElement('h2');
         h.textContent = L;
         box.appendChild(h);
-        list = document.createElement('ul');
-        box.appendChild(list);
+        ul = document.createElement('ul');
+        box.appendChild(ul);
+        groups[L] = ul;
       }
       var li = document.createElement('li');
       var a = document.createElement('a');
       a.href = p.url;
       a.textContent = p.title;
       li.appendChild(a);
-      list.appendChild(li);
+      ul.appendChild(li);
     });
+    Object.keys(groups).forEach(function (L) {
+      var ul = groups[L];
+      var items = Array.prototype.slice.call(ul.children);
+      items.sort(function (x, y) { return x.textContent.toLowerCase().localeCompare(y.textContent.toLowerCase()); });
+      items.forEach(function (li) { ul.appendChild(li); });
+    });
+    var count = document.getElementById('bh-count');
+    if (count) { count.textContent = box.querySelectorAll('a').length + ' articles, A to Z. New articles appear here automatically.'; }
   }
-  load(1).then(render).catch(function () {
-    box.textContent = 'The article list could not be loaded. Please try the homepage: ';
-    var a = document.createElement('a');
-    a.href = 'https://www.byteherald.com/';
-    a.textContent = 'byteherald.com';
-    box.appendChild(a);
-  });
+  load(1).then(merge).catch(function () {});
 })();
 </script>
