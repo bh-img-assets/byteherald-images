@@ -1,0 +1,106 @@
+<p>Three states now tell advertisers the same thing in three different ways: if the person selling the product is not a person, say so. New York's rule has been in force since June 9, 2026. Pennsylvania's takes effect December 21, 2026. California's starts January 1, 2027. Together they are the first American laws that put an AI disclosure duty directly into advertising, and they disagree on almost everything that matters: what triggers the label, who has to know, who enforces it, and what a violation costs.</p>
+
+<p><img alt="Three States, Three AI Ad Laws: New York, California and Pennsylvania AI advertising disclosure rules compared" loading="lazy" src="https://raw.githubusercontent.com/bh-img-assets/byteherald-images/main/img/pillar-adlaws-hero.png" /></p>
+
+<p>The short answer: New York requires a disclosure when an ad uses a synthetic performer and the advertiser actually knows it; California requires one when a synthetic performer is prominent in the ad; Pennsylvania requires one when any synthetic content creates a false impression about what is being sold, and it asks no questions about what the advertiser knew. The table below is the first side-by-side comparison of all three laws, built from the statutes themselves and the law-firm analyses of each.</p>
+
+<h2>The three laws, side by side</h2>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>New York</th>
+<th>California</th>
+<th>Pennsylvania</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Law</td>
+<td>General Business Law 396-b (S8420-A, Chapter 617 of 2025)</td>
+<td>Business and Professions Code 17610 (SB 1050, Chapter 246 of 2026)</td>
+<td>Artificial Intelligence Deceptive Advertising Act, Act 99 of 2026 (SB 806)</td>
+</tr>
+<tr>
+<td>Trigger</td>
+<td>An ad includes a synthetic performer and the producer knows it</td>
+<td>An ad prominently includes a synthetic performer</td>
+<td>Synthetic content creates a false consumer perception about the nature, origin or authenticity of the goods or services</td>
+</tr>
+<tr>
+<td>Scope</td>
+<td>Visual and audiovisual ads only; audio ads exempt; synthetic performers only</td>
+<td>Audio, video and audiovisual ads; synthetic performers only; prominence test applies</td>
+<td>Any synthetic content (image, video, audio, text) that misleads; text-only content exempt</td>
+</tr>
+<tr>
+<td>Knowledge required</td>
+<td>Yes, actual knowledge</td>
+<td>None stated; the duty attaches when the performer is prominent</td>
+<td>None; intent language was removed from the final version</td>
+</tr>
+<tr>
+<td>Effective date</td>
+<td>June 9, 2026 (signed December 11, 2025)</td>
+<td>January 1, 2027 (signed September 16, 2026)</td>
+<td>December 21, 2026 (signed October 22, 2026)</td>
+</tr>
+<tr>
+<td>Enforced by</td>
+<td>No enforcer named in the statute; no express private right of action</td>
+<td>Public enforcers and private suits under the false-advertising and unfair-competition laws; ad media act only on a served court order</td>
+<td>Attorney General or district attorney only; no private right of action; injunctions available</td>
+</tr>
+<tr>
+<td>Penalty</td>
+<td>$1,000 for a first violation, $5,000 for each later violation</td>
+<td>No schedule in §17610 itself; a §17500 violation carries a civil penalty of up to $2,500 per violation (§17536) and misdemeanor exposure of up to 6 months in county jail, a fine of up to $2,500, or both</td>
+<td>Civil fine up to $3,000, plus attorney fees and court costs; whether per ad, per airing or per day is not stated</td>
+</tr>
+</tbody>
+</table>
+
+<p><img alt="Timeline: New York synthetic performer law effective June 9, 2026; Pennsylvania Act 99 signed October 22, 2026 and effective December 21, 2026; California SB 1050 effective January 1, 2027" loading="lazy" src="https://raw.githubusercontent.com/bh-img-assets/byteherald-images/main/img/pillar-adlaws-timeline.png" /></p>
+
+<h2>New York: first, narrowest, already live</h2>
+
+<p>New York moved first. Senate Bill S8420-A, sponsored by Senator Michael Gianaris and Assemblymember Linda Rosenthal, was signed by Governor Kathy Hochul on December 11, 2025 as Chapter 617 of the Laws of 2025, passed the Senate on June 13, 2025, and took effect 180 days later, on June 9, 2026. The governor's office announced that day that the first-in-the-nation law was in effect. It sits in <a href="https://www.aipolicydesk.com/blog/new-york-ai-synthetic-performer-ad-disclosure-law-2026">General Business Law section 396-b</a>, and it is short: a definition, one disclosure duty, a penalty, and a list of exemptions.</p>
+
+<p>A synthetic performer, under the statute, is a digitally created asset made with generative AI or a software algorithm, intended to create the impression of a human performer engaged in an audiovisual or visual performance, who is not recognizable as any identifiable natural performer. Two details matter. First, the definition reaches software, not only AI, so a digital human built with ordinary visual-effects tools can count. Second, it excludes anyone recognizable, which is where likeness law takes over: a digital replica of a real, named person is a consent question under other laws, not a disclosure question under this one.</p>
+
+<p>The duty falls on any person in the business of selling property or services who produces or creates an ad for it, in any medium, and it applies only where that person has actual knowledge that a synthetic performer is in the ad. The disclosure must be conspicuous, and the statute says nothing more: no wording, no placement, no size, no duration. Audio ads are exempt, as are ads where AI solely translates a human performer's lines, ads for expressive works such as films and games where the synthetic performer is used as in the work, and the media that publish the ad. The penalty is a civil penalty of $1,000 for a first violation and $5,000 for any later one. The statute names no enforcer and creates no express private right of action, which points enforcement toward the attorney general, though no enforcement action had been announced as of October 16, 2026. A bill introduced on September 2, 2026 would already tighten the rule by requiring the disclosure to stay visible for the whole time the synthetic performer is on screen; it sits in committee.</p>
+
+<h2>California: the prominence test</h2>
+
+<p>California's <a href="https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1050">SB 1050</a>, authored by Senator Angelique Ashby, was signed by Governor Gavin Newsom on September 16, 2026 as Chapter 246 of the Statutes of 2026. It adds Business and Professions Code section 17610, and it becomes operative on January 1, 2027 under the California Constitution's default rule for regular-session statutes, since the act itself prints no effective date. From that date it is unlawful to create and cause to be published an advertisement that prominently includes a synthetic performer without a clear and conspicuous disclosure.</p>
+
+<p>Prominence is where California does its real work, and the statute gives it <a href="https://www.theleveragedyears.com/ai-regulation-news/california-sb1050-synthetic-performer-advertising-disclosure-2026">three tests, any one of which is enough</a>: the synthetic performer is in the foreground demonstrating or illustrating the product or service; it provides or voices the narration or commercial message, on or off camera; or it illustrates or reacts to that narration or message. A synthetic figure in the background doing none of those things is not prominent, and no label is required. Unlike New York, California covers audio: a synthetic voiceover that narrates the commercial triggers the duty. The disclosure must use wording substantially similar to "this performance features a synthetic performer" or "no human performer is depicted", and "clear and conspicuous" is defined as difficult to miss, easily understandable, and presented so a reasonable consumer would notice, read and comprehend it.</p>
+
+<p>The exemptions mirror New York's in part: ads for expressive works, where the use matches the work, and ads where generative AI solely translates a human performer or provides accessibility features. Platforms get a narrower duty than many expected: an advertising medium must act only after a court order finding a violation is served on it, and then only as soon as commercially reasonable and technically feasible. There is no duty to screen creative and no duty to act on a complaint. A violation counts as a violation of the false-advertising law (Section 17500) and is enforced under the unfair-competition law (Section 17200), which is how both public enforcers and private suits reach it; the section sets no penalty schedule of its own, but the exposure it imports is real: a civil penalty of up to $2,500 per violation under Section 17536, and a Section 17500 violation is a misdemeanor punishable by up to six months in county jail, a fine of up to $2,500, or both. The act's own findings frame the disclosure as purely factual commercial speech, a line drafted with constitutional doctrine in view.</p>
+
+<h2>Pennsylvania: the widest net, the strictest trigger</h2>
+
+<p>Pennsylvania is the third state to enact an AI advertising disclosure law, after New York and California, and it is the only one of the three that reaches synthetic content of any kind rather than only digital stand-ins for human performers. Senate Bill 806, introduced by Senator Nick Pisciottano, passed the Senate 48 to 2 on June 10, 2026 and the House 163 to 40 on October 7, 2026. Governor Josh Shapiro signed it on October 22, 2026 as Act 99 of 2026, and it takes effect 60 days later, on December 21, 2026, according to the <a href="https://www.palegis.us/legislation/bills/2025/sb806">Pennsylvania General Assembly's bill record</a> and the law-firm analyses of the act.</p>
+
+<p>The trigger is deception, not AI use. Section 4 bars an advertiser from creating and disseminating an ad that uses synthetic content, defined as an image, video, audio clip or text significantly modified or generated by AI, in a manner that creates a false consumer perception about the nature, origin or authenticity of the goods or services, unless the ad carries a clear and conspicuous disclosure stating that it contains content modified or generated using AI. An AI-generated video that appears to show a real customer describing a real experience with a financial product is the example the law's analysts keep returning to. Using AI to make an ad is not, by itself, what triggers the label.</p>
+
+<p>Pennsylvania also writes the most detailed disclosure rules of the three. The disclosure must appear the first time the synthetic content is presented, in the same medium, and, to the extent technically feasible, in a form that is permanent or extraordinarily difficult to remove. "Clear and conspicuous" is defined in the statute itself: size, color, contrast, location, duration and audibility that make the disclosure readily noticeable, readable, understandable and capable of being heard, in the language the consumer uses, close to the information it qualifies, and never obscured. Three categories are exempt: content that is evidently fictional from its content or context, parody, satire, commentary or criticism, and content limited to text, which means AI-generated text alone never triggers this particular duty.</p>
+
+<p>The sharpest difference sits in the knowledge column. New York requires actual knowledge. Pennsylvania requires none. <a href="https://www.hklaw.com/en/insights/publications/2026/10/did-ai-touch-your-ad-pennsylvania-may-require-you-to-say-so">Holland and Knight</a>, <a href="https://www.loeb.com/en/insights/passle/2026/10/a-new-ai-disclosure-law-from-pennsylvania-but-what-does-it-actually-cover">Loeb and Loeb</a>, and <a href="https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/pennsylvania-enacts-an-ai-ad-disclosure-law-what-companies-need-to-know-before-december-21">Kelley Drye</a> all report that language limiting the law to advertisers who act "knowingly, recklessly or willfully" appeared in earlier drafts and was removed before final passage, so a company can face enforcement even if it never intended to mislead anyone. Some summaries still quote the earlier draft's wording; the enacted law, as the three firms read it, carries no intent element. Enforcement sits exclusively with the attorney general or the appropriate district attorney, who may seek injunctions and civil fines of up to $3,000 plus attorney fees and court costs, with no private right of action and no warning letter, audit or cure process before enforcement. A disclosure, the act adds, does not limit any other recourse under law, so complying with the label does not immunize an advertiser from other deception claims.</p>
+
+<h2>Where the three laws split</h2>
+
+<p>Read together, the three laws are three different answers to the same question, and the differences are the story. New York polices the performer: a fake person in an ad, and only if the advertiser knows the person is fake. California polices prominence: the fake person matters when it does the selling, and the statute writes the test for when that is true. Pennsylvania polices deception: any AI-made content, person or not, and only when it leaves the consumer with a false impression. A national campaign with an AI spokesperson therefore faces three duties at once, and the practical result is that the strictest rule sets the standard: a label that satisfies Pennsylvania's first-presentation and permanence rules will satisfy the other two, while a label that satisfies New York's undefined "conspicuous" standard may not survive Pennsylvania's.</p>
+
+<p>These three laws are one corner of a much larger map. ByteHerald's worldwide comparison of AI regulation tracks how every major jurisdiction is writing these rules, from the EU AI Act to the state laws taking effect now, and the American corner of that map is filling in faster than the federal one: as of November 4, 2026, <a href="https://www.recordinglaw.com/us-laws/ai-laws/ai-disclosure-labeling-laws/">at least seven states had general AI disclosure or labeling laws</a>, while no federal statute requires labels on AI content. For the full picture, see <a href="https://www.byteherald.com/2026/10/ai-regulation-worldwide-every-law.html">AI Regulation Worldwide: Every Law, Compared</a>.</p>
+
+<h2>The questions no court has answered yet</h2>
+
+<p>None of the three laws has been tested in court, and the open questions are the ones that will decide how much they bite. The first is what "false consumer perception" actually means: the Pennsylvania act does not define it, and Holland and Knight notes the gap gives the attorney general significant discretion in deciding which ads count. The second is how fines are counted. Pennsylvania caps the fine at $3,000 but does not say whether that is per advertisement, per airing or per day; New York's statute does not say whether a violation is counted per ad, per placement or per impression. The third is federal: no federal statute requires an AI label in advertising, the FTC's revised Endorsement Guides from 2023 already bar fake endorsements without mentioning AI, and whether federal commercial-speech doctrine or existing deception law limits what states can demand has not been litigated for any of these three laws. Until a court or an enforcer speaks, the honest reading is that the duties are real, the edges are untested, and the compliance calendar is what matters: New York is already live, Pennsylvania's clock runs out on December 21, 2026, and California follows eleven days later.</p>
+
+<h2>What to do before December 21</h2>
+
+<p>The work before Pennsylvania's effective date is an inventory, not a legal argument. List every live and planned campaign that reaches Pennsylvania, New York or California and uses AI-generated or significantly AI-modified images, video or audio, including assets supplied by agencies and influencers. For each one, ask whether the synthetic content could leave a consumer with a false impression of what is being sold, where it came from, or whether it is real, and ask agencies and vendors in writing which assets are synthetic, since New York's duty turns on actual knowledge and guessing is the worst way to answer it. Where the answer is yes, build the disclosure into the asset itself, shown the first time the content appears, in the same medium, so it survives resharing, and keep a short record of what was reviewed and decided. This article is general information, not legal advice, and the details of any campaign should be checked with qualified counsel before the December deadline.</p>
+
+<p>By ByteHerald Staff. The Pennsylvania General Assembly bill information page for Senate Bill 806, checked November 15, 2026, records the Senate passage 48 to 2 on June 10, 2026, the House passage 163 to 40 on October 7, 2026, and approval by Governor Josh Shapiro on October 22, 2026 as Act No. 99 of 2026. Ballard Spahr, writing in Legal 500 on November 3, 2026, reports that Act 99 requires a clear and conspicuous disclosure when synthetic content creates a false consumer perception, that the fine reaches $3,000 plus attorney fees and court costs, and that the act takes effect December 21, 2026. Holland and Knight, in an alert published October 29, 2026, reports that the intent language was stricken from the final version so the act carries no knowledge requirement, that the act does not define what creates a false consumer perception, and that the $3,000 cap does not say whether it applies per advertisement, per airing or per day. Loeb and Loeb, on October 23, 2026, reports that the law covers synthetic content of any kind rather than only synthetic performers, that the disclosure must appear at first presentation in the same medium, and that only the attorney general and district attorneys can enforce it. Kelley Drye reports that earlier drafts limited the law to knowing, reckless, or willful conduct, but that language was removed. AI Policy Desk, in its guide to New York General Business Law 396-b checked October 16, 2026, reports that Governor Hochul signed S8420-A on December 11, 2025 as Chapter 617 of the Laws of 2025, that the law took effect June 9, 2026, that it requires actual knowledge, that penalties are $1,000 for a first violation and $5,000 for later ones, that the statute names no enforcer, and that a bill introduced September 2, 2026 would require the disclosure to stay visible for the whole time the performer is on screen. The Leveraged Years, in its California SB 1050 briefing published September 18, 2026, reports that the bill was approved September 16, 2026 as Chapter 246 of the Statutes of 2026, that it becomes operative January 1, 2027 under the constitutional default rule, that prominence turns on three tests, that the disclosure must use wording substantially similar to the two statutory phrases, and that advertising media act only on a served court order. <a href="https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?article=1.&amp;chapter=1.&amp;division=7.&amp;lawCode=BPC&amp;part=3.">California Legislative Information</a> records that a violation of Section 17500 is a misdemeanor punishable by imprisonment in the county jail not exceeding six months or a fine not exceeding $2,500, or both, and Section 17536 provides a civil penalty of up to $2,500 per violation. Recording Law, in its AI disclosure laws tracker audited November 5, 2026, reports that at least seven states have general AI disclosure or labeling laws and that no federal statute in the public laws of the 119th Congress requires labels on AI content. The Federal Trade Commission's Endorsement Guides, revised in 2023 and published in the Federal Register on July 26, 2023, set the federal rules for endorsements and testimonials in advertising.</p>
